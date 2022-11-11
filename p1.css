@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+form{
+    border: 1px solid palevioletred;   
+    display: inline-block;
+    text-align: center;
+    width: 40%; 
+    padding: 8px;
+    background-color: antiquewhite;
+}
+input{
+
+    width: 100%;
+    padding: 1px 1px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid palevioletred;
+    box-sizing: border-box;
+    background-color: antiquewhite;
+   
+}
+
+.color{
+    color: palevioletred;
+    background-color: antiquewhite;
+;
+
+}
+.wrapper{
+    border: 1px solid palevioletred;
+    display: inline-block;
+    width: 55%;
+    background-color: antiquewhite;
+}
